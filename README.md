@@ -38,7 +38,8 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/steven.png" />
 
-<p>&emsp;&emsp;大家好，KingSum。一名应用统计学大二在读学生</p>
+<p>&emsp;&emsp;大家好，我是KingSum。</p>
+<p>&emsp;&emsp;目前大二，应用统计学专业，主攻机器学习和专业课知识。</p>
 <p>&emsp;&emsp;热爱编程、摄影、旅行、读书。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p><strong>&emsp;&emsp;Let's build from here.</strong></p>
