@@ -12,6 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
+    <a href="discordapp.com/users/1071816046891241534"><img src="https://img.shields.io/badge/Discord-Discord-ff69b4" /></a>&emsp;
     <a href="https://twitter.com/jintao807034721"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/475622047"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://open.spotify.com/user/31uajg7wljp6imx2rj52qx3qmjqq?si=e40ce1243df44a1c/"><img src="https://img.shields.io/badge/Spotify-Spotify-red" /></a>&emsp;
