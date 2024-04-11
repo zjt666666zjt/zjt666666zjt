@@ -51,67 +51,10 @@
 
 
 
-<tr><td>
 
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
 
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                395 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-🌆 Daytime                548 commits         ████████░░░░░░░░░░░░░░░░░   31.03 % 
-🌃 Evening                552 commits         ████████░░░░░░░░░░░░░░░░░   31.26 % 
-🌙 Night                  271 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Tuesday                  194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Wednesday                227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Thursday                 222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Friday                   485 commits         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Sunday                   247 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Vue.js                   3 hrs               ██████████░░░░░░░░░░░░░░░   39.48 % 
-TypeScript               2 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
-SCSS                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 37 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  5 hrs 39 mins       ███████████████████░░░░░░   74.22 % 
-Mac                      1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-```
 
 
  Last Updated on 20/10/2023 01:12:42 UTC
@@ -218,9 +161,7 @@ mindmap
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/icon.png" /></div>
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/hr.gif" />
@@ -241,13 +182,7 @@ mindmap
 
 
   
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-  <tr>
+
   
   </tr>
 </table>
@@ -269,4 +204,3 @@ mindmap
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zjt666666zjt&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/right.png" />
 
-![Metrics](https://metrics.lecoq.io/zjt666666zjt?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
