@@ -35,15 +35,7 @@
 <table>
 <tr><td>
 
-<!-- About me 关于我 -->
-### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/steven.png" />
-
-<p>&emsp;&emsp;Hello , my name is KingSum.</p>
-<p>&emsp;&emsp;Currently a sophomore, majoring in applied statistics, focusing on machine learning and professional course knowledge.</p>
-<p>&emsp;&emsp;Love programming, photography, traveling, and reading.</p>
-<p>&emsp;&emsp;I love computer science and IT Internet career, and am inspired to become an excellent developer.</p>
 <p><strong>&emsp;&emsp;Let's build from here.</strong></p>
 
 
@@ -68,27 +60,6 @@
 
 <div align="center" >
 
-```mermaid
-mindmap
-  root((kingSum))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-      深度学习
-    
-    旅行
-      南京
-      盐城
-      淮安
-      沈阳
-      长春
-      香港
-    专业课
-     数学分析
-     高等代数
-     概率论
-```
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
