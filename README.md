@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- 打字效果 -->
-  <a href="https://github.com/zjt666666zjt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+👋;Welcome+to+my+GitHub.&center=true&size=27" alt="Typing SVG" />
-  </a>
 
   <!-- 简洁的头像或动图 -->
   <img src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/coding.gif" width="250"/><br>
