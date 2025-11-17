@@ -1,0 +1,14 @@
+# Apple Intelligence Relay Domains
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.cloudflare-dns.com
+DOMAIN-SUFFIX,apple-relay.fastly.com
+DOMAIN-SUFFIX,apple-relay.fastly.net
+DOMAIN-SUFFIX,apple-relay.global.ssl.fastly.net
+DOMAIN-SUFFIX,apple-relay.prod.lax.sec.fastly.net
+DOMAIN-SUFFIX,apple-relay.prod.lhr.sec.fastly.net
+DOMAIN-SUFFIX,apple-relay.fastly-terracity.com
+DOMAIN-SUFFIX,apple-relay.cloudflare-ipfs.com
+DOMAIN-SUFFIX,apple-relay.cloudflarestream.com
+DOMAIN-SUFFIX,apple-relay-doh.cloudflare-dns.com
