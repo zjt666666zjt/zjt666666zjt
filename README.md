@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Typing 标题 -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=720&lines=Hi%2C+I%27m+zjt666666zjt+%F0%9F%91%8B;Keep+learning%2C+stay+curious+%E2%9C%A8;Frontend+%2B+Backend+Explorer+%F0%9F%9A%80"
     alt="Typing SVG"
@@ -8,20 +7,18 @@
 
   <br><br>
 
-  <!-- 动图（走 jsDelivr） -->
   <img src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/coding.gif" width="260" alt="coding gif" />
 
   <br><br>
 
-  <!-- 社交链接 + 访问量 -->
   <a href="https://space.bilibili.com/475622047">
     <img src="https://img.shields.io/badge/Bilibili-B站-blueviolet?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   <a href="https://twitter.com/choukingsum">
     <img src="https://img.shields.io/badge/Twitter%2FX-@choukingsum-111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="https://www.instagram.com/52u1314ya/">
-    <img src="https://img.shields.io/badge/Instagram-Ins-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/epochTX_/">
+    <img src="https://img.shields.io/badge/Instagram-@epochTX_-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=zjt666666zjt&label=Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
@@ -56,15 +53,14 @@
 
 ---
 
-## 🚀 近期计划（可随时改）
+## 🚀 近期计划
 
 - [ ] 做 2~3 个高质量前端小项目（带 README + 部署链接）
 - [ ] 学会 Node.js + 基础后端接口（REST）
 - [ ] 用 TypeScript 重构一个项目
-- [ ] 做一个 Python 自动化/爬虫/数据可视化小工具
+- [ ] 做一个 Python 自动化/数据可视化小工具
 
 ---
-
 
 
 > 💡 “代码不只是工具，它也是一种表达。”
