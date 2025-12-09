@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- 头像/动图 -->
+  <!-- 简洁的头像或动图 -->
   <img src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/coding.gif" width="250" alt="coding gif" /><br>
 
-  <!-- 社交链接 + 访问量 -->
+  <!-- 社交链接 -->
   <div align="center">
     <a href="https://space.bilibili.com/475622047">
       <img src="https://img.shields.io/badge/Bilibili-B站-blueviolet?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
@@ -14,7 +14,7 @@
     <a href="https://www.instagram.com/52u1314ya/">
       <img src="https://img.shields.io/badge/Instagram-Ins-orange?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
     </a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=zjt666666zjt&label=Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=zjt666666zjt&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 </div>
@@ -51,22 +51,66 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <!-- 总览统计 -->
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=zjt666666zjt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-       alt="GitHub Stats" />
 
-  <!-- 常用语言 -->
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjt666666zjt&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide_progress=true"
-       alt="Top Languages" />
+  <!-- GitHub Stats：暗黑/亮色自适应 -->
+  <a href="https://github.com/zjt666666zjt">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=zjt666666zjt&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&locale=cn&cache_seconds=21600"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=zjt666666zjt&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&locale=cn&cache_seconds=21600"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        height="170"
+        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=zjt666666zjt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&locale=cn&cache_seconds=21600"
+      />
+    </picture>
+  </a>
+
+  <!-- Top Langs：暗黑/亮色自适应 -->
+  <a href="https://github.com/zjt666666zjt">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zjt666666zjt&layout=compact&hide_border=true&langs_count=8&hide_progress=true&theme=dark&locale=cn&cache_seconds=21600"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zjt666666zjt&layout=compact&hide_border=true&langs_count=8&hide_progress=true&theme=default&locale=cn&cache_seconds=21600"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        height="170"
+        alt="Top Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjt666666zjt&layout=compact&hide_border=true&langs_count=8&hide_progress=true&theme=transparent&locale=cn&cache_seconds=21600"
+      />
+    </picture>
+  </a>
+
 </div>
 
-<!-- 连续贡献（streak） -->
+<!-- Streak：连续贡献（可选） -->
 <div align="center">
-  <img height="180"
-       src="https://streak-stats.demolab.com?user=zjt666666zjt&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j"
-       alt="GitHub Streak" />
+  <a href="https://github.com/zjt666666zjt">
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=zjt666666zjt&theme=dark&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=zjt666666zjt&theme=default&hide_border=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img
+        height="180"
+        alt="GitHub Streak"
+        src="https://streak-stats.demolab.com?user=zjt666666zjt&theme=transparent&hide_border=true"
+      />
+    </picture>
+  </a>
 </div>
 
 ---
