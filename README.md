@@ -1,16 +1,22 @@
 <div align="center">
 
+  <!-- 头像/动图 -->
+  <img src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/coding.gif" width="250" alt="coding gif" /><br>
 
-  <!-- 简洁的头像或动图 -->
-  <img src="https://cdn.jsdelivr.net/gh/zjt666666zjt/zjt666666zjt/assets/images/coding.gif" width="250"/><br>
-
-  <!-- 社交链接 -->
+  <!-- 社交链接 + 访问量 -->
   <div align="center">
-    <a href="https://space.bilibili.com/475622047"><img src="https://img.shields.io/badge/Bilibili-B站-blueviolet?style=flat" /></a>&emsp;
-    <a href="https://twitter.com/jintao807034721"><img src="https://img.shields.io/badge/Twitter-推特-skyblue?style=flat" /></a>&emsp;
-    <a href="https://www.instagram.com/52u1314ya/"><img src="https://img.shields.io/badge/Instagram-Ins-orange?style=flat" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=zjt666666zjt&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <a href="https://space.bilibili.com/475622047">
+      <img src="https://img.shields.io/badge/Bilibili-B站-blueviolet?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
+    </a>&emsp;
+    <a href="https://twitter.com/jintao807034721">
+      <img src="https://img.shields.io/badge/Twitter-推特-skyblue?style=flat&logo=x&logoColor=white" alt="Twitter/X" />
+    </a>&emsp;
+    <a href="https://www.instagram.com/52u1314ya/">
+      <img src="https://img.shields.io/badge/Instagram-Ins-orange?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=zjt666666zjt&label=Views&color=0e75b6&style=flat" alt="Profile Views" />
   </div>
+
 </div>
 
 ---
@@ -44,11 +50,25 @@
 
 ### 📊 GitHub 统计
 
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=zjt666666zjt&show_icons=true&hide_title=true&theme=transparent&hide_border=true" />
-<img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjt666666zjt&layout=compact&hide_title=true&theme=transparent&hide_border=true" />
+<div align="center">
+  <!-- 总览统计 -->
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=zjt666666zjt&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+       alt="GitHub Stats" />
+
+  <!-- 常用语言 -->
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjt666666zjt&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide_progress=true"
+       alt="Top Languages" />
+</div>
+
+<!-- 连续贡献（streak） -->
+<div align="center">
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=zjt666666zjt&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j"
+       alt="GitHub Streak" />
+</div>
 
 ---
 
 > 💡 “代码不只是工具，它也是一种表达。”
-
-</div>
